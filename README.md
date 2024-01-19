@@ -1,1 +1,4 @@
-creating a licences for signature crypto wallets
+mit license 
+
+
+
